@@ -2,9 +2,19 @@
 
 Lists IP ranges of misc internet services. Currently, updated only in manual mode.
 
-Latest update: 2022-03-26
+| Services                  | Downloads                                                                                                                                                                                  |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Google                    | [google.txt](https://raw.githubusercontent.com/vattik/ipranges/main/google/google.txt), [google-cloud.txt](https://raw.githubusercontent.com/vattik/ipranges/main/google/google-cloud.txt) |
+| Mail.Ru and Odnoklassniki | [mail.ru.txt](https://raw.githubusercontent.com/vattik/ipranges/main/mail.ru/mail.ru.txt)                                                                                                  |
+| Russian Government        | [ru-government.txt](https://raw.githubusercontent.com/vattik/ipranges/main/ru-government/ru-government.txt)                                                                                |
+| VKontakte                 | [vkontakte.txt](https://raw.githubusercontent.com/vattik/ipranges/main/vkontakte/vkontakte.txt)                                                                                            |
+| Yandex                    | [yandex.txt](https://raw.githubusercontent.com/vattik/ipranges/main/yandex/yandex.txt)                                                                                                     |
 
-## Example of manual getting data from BGP.HE.NET
+**Latest update:** 2022-03-26
+
+---
+
+##### Example of manual getting data from BGP.HE.NET
 
 ```javascript
 {
