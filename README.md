@@ -2,14 +2,15 @@
 
 Lists IP ranges of misc internet services. Currently, updated only in manual mode.
 
-| Services                  | Downloads                                                                                                                                                                                  |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Google                    | [google.txt](https://raw.githubusercontent.com/vattik/ipranges/main/google/google.txt), [google-cloud.txt](https://raw.githubusercontent.com/vattik/ipranges/main/google/google-cloud.txt) |
-| Mail.Ru and Odnoklassniki | [mail.ru.txt](https://raw.githubusercontent.com/vattik/ipranges/main/mail.ru/mail.ru.txt)                                                                                                  |
-| Russian Government        | [ru-government.txt](https://raw.githubusercontent.com/vattik/ipranges/main/ru-government/ru-government.txt)                                                                                |
-| Rutube                    | [rutube.txt](https://raw.githubusercontent.com/vattik/ipranges/main/rutube/rutube.txt)                                                                                                     |
-| VKontakte                 | [vkontakte.txt](https://raw.githubusercontent.com/vattik/ipranges/main/vkontakte/vkontakte.txt)                                                                                            |
-| Yandex                    | [yandex.txt](https://raw.githubusercontent.com/vattik/ipranges/main/yandex/yandex.txt)                                                                                                     |
+| Services                    | Downloads                                                                                                                                                                                  |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Google                      | [google.txt](https://raw.githubusercontent.com/vattik/ipranges/main/google/google.txt), [google-cloud.txt](https://raw.githubusercontent.com/vattik/ipranges/main/google/google-cloud.txt) |
+| Mail.Ru and Odnoklassniki   | [mail.ru.txt](https://raw.githubusercontent.com/vattik/ipranges/main/mail.ru/mail.ru.txt)                                                                                                  |
+| Russian Government          | [ru-government.txt](https://raw.githubusercontent.com/vattik/ipranges/main/ru-government/ru-government.txt)                                                                                |
+| Rutube                      | [rutube.txt](https://raw.githubusercontent.com/vattik/ipranges/main/rutube/rutube.txt)                                                                                                     |
+| Valve Corporation and Steam | [valve.txt](https://raw.githubusercontent.com/vattik/ipranges/main/valve/valve.txt)                                                                                                        |
+| VKontakte                   | [vkontakte.txt](https://raw.githubusercontent.com/vattik/ipranges/main/vkontakte/vkontakte.txt)                                                                                            |
+| Yandex                      | [yandex.txt](https://raw.githubusercontent.com/vattik/ipranges/main/yandex/yandex.txt)                                                                                                     |
 
 **Latest update:** 2025-01-01
 
