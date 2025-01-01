@@ -11,7 +11,7 @@ Lists IP ranges of misc internet services. Currently, updated only in manual mod
 | VKontakte                 | [vkontakte.txt](https://raw.githubusercontent.com/vattik/ipranges/main/vkontakte/vkontakte.txt)                                                                                            |
 | Yandex                    | [yandex.txt](https://raw.githubusercontent.com/vattik/ipranges/main/yandex/yandex.txt)                                                                                                     |
 
-**Latest update:** 2024-05-11
+**Latest update:** 2025-01-01
 
 ---
 
